@@ -1,0 +1,201 @@
+(1) Ingresa un número:
+3
+(2) Ingresa un número:
+-5
+(3) Ingresa un número:
+4
+(4) Ingresa un número:
+-7
+(5) Ingresa un número:
+34
+(6) Ingresa un número:
+-6
+(7) Ingresa un número:
+4
+(8) Ingresa un número:
+6
+(9) Ingresa un número:
+3
+(10) Ingresa un número:
+-7
+(11) Ingresa un número:
+23
+(12) Ingresa un número:
+-76
+(13) Ingresa un número:
+34 
+(14) Ingresa un número:
+65
+(15) Ingresa un número:
+-4
+(16) Ingresa un número:
+-34
+(17) Ingresa un número:
+76
+(18) Ingresa un número:
+-45
+(19) Ingresa un número:
+-65
+(20) Ingresa un número:
+30
+(21) Ingresa un número:
+25
+(22) Ingresa un número:
+12
+(23) Ingresa un número:
+-12
+(24) Ingresa un número:
+54
+(25) Ingresa un número:
+23
+(26) Ingresa un número:
+76
+(27) Ingresa un número:
+45
+(28) Ingresa un número:
+34
+(29) Ingresa un número:
+-76
+(30) Ingresa un número:
+-43
+(31) Ingresa un número:
+56
+(32) Ingresa un número:
+45
+(33) Ingresa un número:
+-43
+(34) Ingresa un número:
+87
+(35) Ingresa un número:
+-54
+(36) Ingresa un número:
+-9
+(37) Ingresa un número:
+31 
+(38) Ingresa un número:
+34
+(39) Ingresa un número:
+-65
+(40) Ingresa un número:
+-82
+(41) Ingresa un número:
+-87
+(42) Ingresa un número:
+-98
+(43) Ingresa un número:
+23
+(44) Ingresa un número:
+12
+(45) Ingresa un número:
+56
+(46) Ingresa un número:
+45
+(47) Ingresa un número:
+87
+(48) Ingresa un número:
+58
+(49) Ingresa un número:
+20
+(50) Ingresa un número:
+23
+(51) Ingresa un número:
+-76
+(52) Ingresa un número:
+23
+(53) Ingresa un número:
+54
+(54) Ingresa un número:
+-76
+(55) Ingresa un número:
+34
+(56) Ingresa un número:
+12
+(57) Ingresa un número:
+19
+(58) Ingresa un número:
+20
+(59) Ingresa un número:
+-54
+(60) Ingresa un número:
+34
+(61) Ingresa un número:
+65
+(62) Ingresa un número:
+-76
+(63) Ingresa un número:
+34
+(64) Ingresa un número:
+-76
+(65) Ingresa un número:
+-98
+(66) Ingresa un número:
+12
+(67) Ingresa un número:
+87
+(68) Ingresa un número:
+7
+(69) Ingresa un número:
+34
+(70) Ingresa un número:
+23
+(71) Ingresa un número:
+-65
+(72) Ingresa un número:
+-28
+(73) Ingresa un número:
+-10
+(74) Ingresa un número:
+12
+(75) Ingresa un número:
+39
+(76) Ingresa un número:
+34
+(77) Ingresa un número:
+54
+(78) Ingresa un número:
+76
+(79) Ingresa un número:
+-17
+(80) Ingresa un número:
+-18
+(81) Ingresa un número:
+-36
+(82) Ingresa un número:
+27
+(83) Ingresa un número:
+-16
+(84) Ingresa un número:
+-12
+(85) Ingresa un número:
+48
+(86) Ingresa un número:
+38
+(87) Ingresa un número:
+36
+(88) Ingresa un número:
+72
+(89) Ingresa un número:
+82
+(90) Ingresa un número:
+-17
+(91) Ingresa un número:
+-15 
+(92) Ingresa un número:
+-53
+(93) Ingresa un número:
+-87
+(94) Ingresa un número:
+-28
+(95) Ingresa un número:
+-32
+(96) Ingresa un número:
+27
+(97) Ingresa un número:
+-54
+(98) Ingresa un número:
+-85
+(99) Ingresa un número:
+23
+(100) Ingresa un número:
+87
+Máximo 87.000000 Minimo -98.000000
